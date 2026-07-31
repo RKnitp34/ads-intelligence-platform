@@ -1,13 +1,24 @@
+# Virtual Environment
 .venv/
+
+# Python
 __pycache__/
 *.pyc
 
+# Jupyter
 .ipynb_checkpoints/
 
+# Data
 data/raw/
+data/interim/
+data/processed/
 
+# Models
 models/
 
-.env
+# OS
+.DS_Store
+Thumbs.db
 
-.vscode/settings.json
+# VS Code
+.vscode/

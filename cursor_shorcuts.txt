@@ -1,0 +1,5 @@
+Ctrl + L → Chat
+Ctrl + I → Inline edit
+@Files → Reference files in chat
+@Codebase → Ask questions about the whole project
+Ctrl + Shift + P → Command Palette
